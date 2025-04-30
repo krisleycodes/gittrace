@@ -25,18 +25,3 @@ A lightweight GitHub profile explorer built with Vue 3 and TypeScript. Search us
 | Styling        | Tailwind CSS                          |
 | API            | GitHub REST API                       |
 | Build Tool     | Vite                                  |
-
-## Key Implementation Details
-
-```typescript
-// Type-safe API response handling
-interface GitHubUser {
-  login: string;
-  public_repos: number;
-  // ...15+ other fields with strict typing
-}
-
-// Debounced search (500ms delay)
-const searchUser = useDebounceFn(() => {
-  // API call logic
-}, 500);
