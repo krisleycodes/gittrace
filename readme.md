@@ -1,6 +1,6 @@
 # GitTrace 🔍
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live-brightgreen?style=for-the-badge)](https://your-deployment-link.com)
+[![Live Demo](https://img.shields.io/badge/Demo-Live-brightgreen?style=for-the-badge)](https://gittrace.vercel.app/)
 [![Vue](https://img.shields.io/badge/Vue-3.x-4fc08d?logo=vuedotjs)](https://vuejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-4.x-3178c6?logo=typescript)](https://www.typescriptlang.org/)
 [![GitHub API](https://img.shields.io/badge/GitHub_API-v3-181717?logo=github)](https://docs.github.com/en/rest)
